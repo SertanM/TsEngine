@@ -1,0 +1,11 @@
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\bin\Release\TsEngine.exe.config
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\bin\Release\TsEngine.exe.manifest
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\bin\Release\TsEngine.application
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\bin\Release\TsEngine.exe
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\bin\Release\TsEngine.pdb
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Release\TsEngine.csproj.AssemblyReference.cache
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Release\TsEngine.csproj.CoreCompileInputs.cache
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Release\TsEngine.exe.manifest
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Release\TsEngine.application
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Release\TsEngine.exe
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Release\TsEngine.pdb

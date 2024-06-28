@@ -1,0 +1,11 @@
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\bin\Debug\TsEngine.exe.config
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\bin\Debug\TsEngine.exe
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\bin\Debug\TsEngine.pdb
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Debug\TsEngine.csproj.AssemblyReference.cache
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Debug\TsEngine.csproj.CoreCompileInputs.cache
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Debug\TsEngine.exe
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Debug\TsEngine.pdb
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\bin\Debug\TsEngine.exe.manifest
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\bin\Debug\TsEngine.application
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Debug\TsEngine.exe.manifest
+C:\Users\serta\Belgeler\Projects\C#\TsEngine\TsEngine\obj\Debug\TsEngine.application
